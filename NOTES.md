@@ -21,3 +21,9 @@ Yard Cloud]: https://www.engineyard.com/features [Heroku]:
 https://www.heroku.com/
 
 Source: https://www.railstutorial.org/book/beginning#sec-deploying
+
+---
+
+A controller contains a collection of related actions.
+
+Source: https://www.railstutorial.org/book/toy_app#sec-mvc_in_action
