@@ -1,0 +1,1 @@
+We can (we are allowed to) create a user with an invalid email address.
