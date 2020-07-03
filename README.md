@@ -10,4 +10,8 @@ to the exercise 2 of section 1.2.4 can be found in a branch named
 `ANSWER.md` file is located either on the root of the project directory, or in a
 folder named `EXERCISE_ANSWER`, which is on the root of the project directory.
 
+You can also find my notes about the places that I find particularly important
+in the tutorial in a file named [NOTES.md][Notes].
+
 [Ruby on Rails Tutorial]: https://www.railstutorial.org/book
+[Notes]: NOTES.md
